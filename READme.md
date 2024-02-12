@@ -6,7 +6,7 @@
 
 - Isaiah Ronoh
 
-August, 2024
+February, 2024
 
 ## website/Live Site
 Git repo [here](https://github.com/pkoriris/Week1-Independent-Project--Portfolio-Landing-Page.git)
