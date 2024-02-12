@@ -15,9 +15,6 @@ Creating an HTML page and deploying it to github pages
 ## Project Setup Instruction
 Installation of visual studio
 
-## Known Bugs
-No known bugs were discovered.
-
 ## Technologies Used
 HTML
 CSS
