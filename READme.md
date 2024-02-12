@@ -21,7 +21,7 @@ No known bugs were discovered.
 ## Technologies Used
 HTML
 CSS
-Git/GitHub repo
+Git/GitHub repository
 
 
 ## Support and contact details
