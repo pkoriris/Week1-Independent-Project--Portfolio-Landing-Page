@@ -11,7 +11,7 @@ February, 2024
 ## website/Live Site
 Git repository [here](https://github.com/pkoriris/Week1-Independent-Project--Portfolio-Landing-Page.git)
 ## Project Description
-Creating an HTML page and deploying to github pages
+Creating an HTML page and deploying it to github pages
 ## Project Setup Instruction
 Installation of visual studio
 
