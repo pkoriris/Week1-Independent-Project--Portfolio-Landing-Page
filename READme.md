@@ -32,5 +32,5 @@ Isaiah Ronoh: ISTQB Certified, aggressive and multi skill professional with 5 ye
 
 Experience with Test Management tools like Micro focus ALM , Micro focus Octane and JIRA Expertise in Performance Testing using JMeter with certification in Performance Testing Good understanding of the Software Development Life Cycle. Good understanding of Agile ways of working with certification as an Agile Tester Knowledge of BDD Python style/behave and Allure for reporting Knowledge of Selenium with Java
 
-Contact information Phone: 0702795714 Email: kipkoririsco4@gmail.com 
+Contact information Phone: 254702795714 Email: kipkoririsco4@gmail.com 
 License and Copyright information (c) Isaiah Ronoh @2024
